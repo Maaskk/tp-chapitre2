@@ -1,0 +1,8 @@
+* 53b7442 Ajout du schéma et des réponses du TP
+* 0212764 Ajout d'une CI simple
+* aa8d59f Ajout de l'orchestration Dagster
+* 16b9281 Ajout des modèles et tests dbt
+* ee70cdc Ajout de l'étape de validation minimale
+* bda83a3 Ajout de l'étape d'ingestion
+* 71f8e4b Ajout du fichier source ventes
+* 0471994 Initialisation du projet pipeline
